@@ -8,6 +8,8 @@ My Java homework at 2015 spring in UESTC.
 第二个作业（2015.4.8）：midi吉他，实现用过键盘或鼠标点击相应midi声音播放。
 ## Meitu
 第三个作业（2015.4.21）：“美图秀秀”，实现简易的图象处理功能，诸如：模糊，羽化，清晰，灰度变化，柔焦等。
+## BMI Calcultor
+北邮计算机实习第三个作业(2015.6.8):BMI体质计算器，通过获得身高、体重、腰围信息来判断体质是否健康。
 ## Block Breaker
 大实验一（2015.5.11）：打砖块小游戏。
 ## Image Compression
